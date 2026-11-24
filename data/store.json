@@ -1,0 +1,4403 @@
+{
+  "seedVersion": 2,
+  "ventures": [
+    {
+      "id": "sky-crest-residences",
+      "name": "Sky Crest Residences",
+      "tagline": "Travertine Boutique Tower · Avenue Frontage",
+      "location": "Jubilee Park North, Hyderabad",
+      "completeAddress": "Plot 14, Maple Palm Avenue, Jubilee Park North, Hyderabad 500033",
+      "coordinates": {
+        "lat": 17.4326,
+        "lng": 78.4071
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=17.4326,78.4071",
+      "shortDescription": "5 floors · 20 corner 2 BHK & 3 BHK residences with lap pool and landscaped gardens.",
+      "overviewDescription": "Low-density travertine residence accented with deep navy architectural fins, a courtyard lap pool, pergola clubhouse, and shaded perimeter jogging track.",
+      "constructionStatus": "Ready to Move",
+      "mainImageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg",
+      "isPlaceholderDetails": false,
+      "highlights": [
+        "4 corner flats per floor with dual ventilation",
+        "Courtyard lap pool & pergola clubhouse",
+        "Perimeter jogging track & children’s play park",
+        "EV-ready covered stilt parking"
+      ],
+      "buildingInfo": {
+        "totalLandAreaSqYds": 1120,
+        "totalBuiltUpAreaSqFt": 33250,
+        "totalBlocks": 1,
+        "totalFloors": 5,
+        "flatsPerFloor": 4,
+        "configurations": [
+          "2 BHK",
+          "3 BHK"
+        ],
+        "parkingFacilities": "28 Covered Stilt & Basement Bays with EV Charging",
+        "amenities": [
+          "Courtyard Swimming Pool",
+          "Pergola Clubhouse Lounge",
+          "Perimeter Jogging Track",
+          "Children's Play Park",
+          "Landscaped Botanical Lawns",
+          "24/7 Security & Solar Backup"
+        ]
+      },
+      "floors": [
+        {
+          "floorIndex": 0,
+          "floorName": "Ground Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "sky-crest-flat-G01",
+              "flatNumber": "G01",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G01-A, G01-B)",
+              "price": "$368,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-G02",
+              "flatNumber": "G02",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "NW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (G02-A)",
+              "price": "$265,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-G03",
+              "flatNumber": "G03",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "SE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (G03-A)",
+              "price": "$265,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-G04",
+              "flatNumber": "G04",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G04-A, G04-B)",
+              "price": "$368,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 1,
+          "floorName": "First Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "sky-crest-flat-101",
+              "flatNumber": "101",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (101-A, 101-B)",
+              "price": "$368,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-102",
+              "flatNumber": "102",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "NW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (102-A)",
+              "price": "$265,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-103",
+              "flatNumber": "103",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "SE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (103-A)",
+              "price": "$265,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-104",
+              "flatNumber": "104",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (104-A, 104-B)",
+              "price": "$368,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 2,
+          "floorName": "Second Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "sky-crest-flat-201",
+              "flatNumber": "201",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (201-A, 201-B)",
+              "price": "$368,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-202",
+              "flatNumber": "202",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "NW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (202-A)",
+              "price": "$265,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-203",
+              "flatNumber": "203",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "SE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (203-A)",
+              "price": "$265,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-204",
+              "flatNumber": "204",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (204-A, 204-B)",
+              "price": "$368,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 3,
+          "floorName": "Third Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "sky-crest-flat-301",
+              "flatNumber": "301",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (301-A, 301-B)",
+              "price": "$368,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-302",
+              "flatNumber": "302",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "NW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (302-A)",
+              "price": "$265,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-303",
+              "flatNumber": "303",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "SE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (303-A)",
+              "price": "$265,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-304",
+              "flatNumber": "304",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (304-A, 304-B)",
+              "price": "$368,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 4,
+          "floorName": "Fourth Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "sky-crest-flat-401",
+              "flatNumber": "401",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (401-A, 401-B)",
+              "price": "$368,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-402",
+              "flatNumber": "402",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "NW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (402-A)",
+              "price": "$265,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-403",
+              "flatNumber": "403",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 52,
+              "facing": "SE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (403-A)",
+              "price": "$265,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "sky-crest-flat-404",
+              "flatNumber": "404",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 60,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (404-A, 404-B)",
+              "price": "$368,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        }
+      ],
+      "directionalViews": [
+        {
+          "direction": "N",
+          "label": "North-Facing View",
+          "bearingDegrees": 0,
+          "panoramaNodeId": "sky-crest-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front side facing Maple Palm Avenue with main gate and landscaped setback.",
+          "verifiedSiteNote": "Front setback: 28 ft buffer facing North avenue."
+        },
+        {
+          "direction": "NE",
+          "label": "North-East Corner View",
+          "bearingDegrees": 45,
+          "panoramaNodeId": "sky-crest-ext-front",
+          "previewImageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg",
+          "description": "Corner arrival plaza and morning light lobby elevation.",
+          "verifiedSiteNote": "Vastu-aligned NE corner gate entry."
+        },
+        {
+          "direction": "E",
+          "label": "East-Facing View",
+          "bearingDegrees": 90,
+          "panoramaNodeId": "sky-crest-ext-right",
+          "previewImageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "description": "Right side elevation with morning light living balconies.",
+          "verifiedSiteNote": "24 ft right-side setback along residential parkway."
+        },
+        {
+          "direction": "SE",
+          "label": "South-East Corner View",
+          "bearingDegrees": 135,
+          "panoramaNodeId": "sky-crest-ext-back",
+          "previewImageUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "description": "Rear-right corner overlooking courtyard deck and pergolas.",
+          "verifiedSiteNote": "Deep overhangs calibrated for mid-day shade."
+        },
+        {
+          "direction": "S",
+          "label": "South-Facing View",
+          "bearingDegrees": 180,
+          "panoramaNodeId": "sky-crest-ext-back",
+          "previewImageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg",
+          "description": "Back side elevation overlooking private garden lawn and pool.",
+          "verifiedSiteNote": "Private landscaped rear buffer."
+        },
+        {
+          "direction": "SW",
+          "label": "South-West Corner View",
+          "bearingDegrees": 225,
+          "panoramaNodeId": "sky-crest-ext-left",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Rear-left driveway ramp and western balcony wing.",
+          "verifiedSiteNote": "Dedicated basement ramp on SW corner."
+        },
+        {
+          "direction": "W",
+          "label": "West-Facing View",
+          "bearingDegrees": 270,
+          "panoramaNodeId": "sky-crest-ext-left",
+          "previewImageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg",
+          "description": "Left side roadway facing tree-lined residential avenue.",
+          "verifiedSiteNote": "30 ft clear sightline corridor on West boundary."
+        },
+        {
+          "direction": "NW",
+          "label": "North-West Corner View",
+          "bearingDegrees": 315,
+          "panoramaNodeId": "sky-crest-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front-left corner approach from main street junction.",
+          "verifiedSiteNote": "Primary vehicle drop-off turn-in."
+        }
+      ],
+      "panoramas": [
+        {
+          "id": "sky-crest-ext-front",
+          "title": "Front Side — Main Gate & Avenue",
+          "category": "road",
+          "zone": "exterior",
+          "exteriorSide": "front",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Front Side (North)",
+          "description": "Outside Sky Crest Residences along Maple Palm Avenue. Select a floor & flat below to enter the gate, or inspect Back, Left, and Right building sides.",
+          "connections": {
+            "forwardNodeId": "sky-crest-flat-gate",
+            "forwardLabel": "Enter Flat Gate",
+            "backwardNodeId": "sky-crest-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "sky-crest-ext-left",
+            "leftLabel": "Left Side",
+            "rightNodeId": "sky-crest-ext-right",
+            "rightLabel": "Right Side"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-front-gate",
+              "yaw": 0,
+              "pitch": 2,
+              "title": "Main Apartment Gate",
+              "detail": "Choose floor and flat to step inside the apartment gate.",
+              "targetNodeId": "sky-crest-flat-gate"
+            },
+            {
+              "id": "sky-crest-hs-front-right",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Right Side Elevation",
+              "detail": "Inspect East side setback and balconies.",
+              "targetNodeId": "sky-crest-ext-right"
+            },
+            {
+              "id": "sky-crest-hs-front-left",
+              "yaw": 278,
+              "pitch": 0,
+              "title": "Left Side Avenue",
+              "detail": "Inspect West driveway and parking ramp.",
+              "targetNodeId": "sky-crest-ext-left"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-ext-right",
+          "title": "Right Side — East Elevation",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "right",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Side (East)",
+          "description": "Right side of Sky Crest Residences showing eastern balconies and 24 ft parkway setback.",
+          "connections": {
+            "forwardNodeId": "sky-crest-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "sky-crest-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "sky-crest-ext-front",
+            "leftLabel": "Front Gate",
+            "rightNodeId": "sky-crest-ext-back",
+            "rightLabel": "Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-right-front",
+              "yaw": 0,
+              "pitch": 0,
+              "title": "Return to Front Side",
+              "detail": "Back to main avenue gate.",
+              "targetNodeId": "sky-crest-ext-front"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-ext-left",
+          "title": "Left Side — West Driveway",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "left",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 270,
+          "compassHeadingLabel": "Left Side (West)",
+          "description": "Left side of Sky Crest Residences showing basement parking ramp and western street trees.",
+          "connections": {
+            "forwardNodeId": "sky-crest-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "sky-crest-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "sky-crest-ext-back",
+            "leftLabel": "Back Side",
+            "rightNodeId": "sky-crest-ext-front",
+            "rightLabel": "Front Gate"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-left-ramp",
+              "yaw": 260,
+              "pitch": -3,
+              "title": "Covered Parking Ramp",
+              "detail": "Stilt and basement EV-ready bays."
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-ext-back",
+          "title": "Back Side — Courtyard & Terrace",
+          "category": "amenity",
+          "zone": "exterior",
+          "exteriorSide": "back",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Back Side (South)",
+          "description": "Back side of Sky Crest Residences overlooking the reflection pool, courtyard garden, and rear balconies.",
+          "connections": {
+            "forwardNodeId": "sky-crest-ext-front",
+            "forwardLabel": "Front Side",
+            "leftNodeId": "sky-crest-ext-right",
+            "leftLabel": "Right Side",
+            "rightNodeId": "sky-crest-ext-left",
+            "rightLabel": "Left Side"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-back-pool",
+              "yaw": 185,
+              "pitch": -8,
+              "title": "Courtyard & Pool Deck",
+              "detail": "Private rear garden and lounge terrace."
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-gate",
+          "title": "Flat Entrance Gate",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Flat Main Door",
+          "description": "Standing at the flat entrance gate. Step forward into the Main Hall or return outside.",
+          "connections": {
+            "forwardNodeId": "sky-crest-flat-hall",
+            "forwardLabel": "Enter Main Hall",
+            "backwardNodeId": "sky-crest-ext-front",
+            "backwardLabel": "Exit Outside"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-gate-hall",
+              "yaw": 0,
+              "pitch": -2,
+              "title": "Enter First Hall",
+              "detail": "Step inside the main living hall.",
+              "targetNodeId": "sky-crest-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-hall",
+          "title": "Main Hall (Living Room)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Central Hall Hub",
+          "description": "Right: Open Kitchen · Straight Left: Bedroom 1 (Bathroom & Back Balcony) · Right Straight → Left: Bedroom 2 (Bathroom) · Front: Entrance Gate.",
+          "connections": {
+            "forwardNodeId": "sky-crest-flat-gate",
+            "forwardLabel": "Front: Entrance Gate",
+            "rightNodeId": "sky-crest-flat-kitchen",
+            "rightLabel": "Right: Open Kitchen",
+            "leftNodeId": "sky-crest-flat-bedroom-1",
+            "leftLabel": "Straight Left: Bedroom 1",
+            "backwardNodeId": "sky-crest-flat-bedroom-2",
+            "backwardLabel": "Right Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-hall-kitchen",
+              "yaw": 82,
+              "pitch": -3,
+              "title": "Open Kitchen (Right)",
+              "detail": "Travertine island and deep-teal modular cabinetry.",
+              "targetNodeId": "sky-crest-flat-kitchen"
+            },
+            {
+              "id": "sky-crest-hs-hall-bed1",
+              "yaw": 280,
+              "pitch": 0,
+              "title": "Bedroom 1 (Straight Left)",
+              "detail": "Primary suite with attached bathroom and back balcony.",
+              "targetNodeId": "sky-crest-flat-bedroom-1"
+            },
+            {
+              "id": "sky-crest-hs-hall-bed2",
+              "yaw": 145,
+              "pitch": 0,
+              "title": "Bedroom 2 (Right → Straight & Left)",
+              "detail": "Second bedroom wing with attached bathroom.",
+              "targetNodeId": "sky-crest-flat-bedroom-2"
+            },
+            {
+              "id": "sky-crest-hs-hall-balcony",
+              "yaw": 8,
+              "pitch": 0,
+              "title": "Balcony View",
+              "detail": "Inspect outdoor glass-railing balcony.",
+              "targetNodeId": "sky-crest-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-kitchen",
+          "title": "Open Kitchen (Right of Hall)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 45,
+          "compassHeadingLabel": "Right Wing · Open Kitchen",
+          "description": "Open kitchen on the right side of the hall with travertine island and direct view back to the living hall.",
+          "connections": {
+            "leftNodeId": "sky-crest-flat-hall",
+            "leftLabel": "Main Hall",
+            "backwardNodeId": "sky-crest-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "sky-crest-flat-bedroom-2",
+            "forwardLabel": "Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-kit-hall",
+              "yaw": 235,
+              "pitch": 0,
+              "title": "Back to Main Hall",
+              "detail": "Return to living hall center.",
+              "targetNodeId": "sky-crest-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-bedroom-1",
+          "title": "Bedroom 1 (Straight Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 315,
+          "compassHeadingLabel": "Left Wing · Bedroom 1",
+          "description": "Straight left from the hall: Bedroom 1 with attached bathroom on the left and private balcony on the backside.",
+          "connections": {
+            "leftNodeId": "sky-crest-flat-bath-1",
+            "leftLabel": "Attached Bathroom",
+            "backwardNodeId": "sky-crest-flat-balcony",
+            "backwardLabel": "Back Balcony",
+            "rightNodeId": "sky-crest-flat-hall",
+            "rightLabel": "Back to Hall",
+            "forwardNodeId": "sky-crest-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-b1-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 1",
+              "detail": "Step inside the ensuite bathroom.",
+              "targetNodeId": "sky-crest-flat-bath-1"
+            },
+            {
+              "id": "sky-crest-hs-b1-balcony",
+              "yaw": 5,
+              "pitch": 0,
+              "title": "Backside Balcony",
+              "detail": "Open sliding doors to the private balcony.",
+              "targetNodeId": "sky-crest-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-bath-1",
+          "title": "Attached Bathroom 1",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Bedroom 1 Ensuite",
+          "description": "Attached bathroom to Bedroom 1 featuring limestone walls, deep-teal vanity, and walk-in glass shower.",
+          "connections": {
+            "backwardNodeId": "sky-crest-flat-bedroom-1",
+            "backwardLabel": "Back to Bedroom 1",
+            "rightNodeId": "sky-crest-flat-bedroom-1",
+            "rightLabel": "Bedroom 1"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-bath1-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 1",
+              "detail": "Step back into Bedroom 1.",
+              "targetNodeId": "sky-crest-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-balcony",
+          "title": "Backside Balcony",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Backside Private Balcony",
+          "description": "Private rear balcony with frameless glass railing overlooking courtyard gardens.",
+          "connections": {
+            "forwardNodeId": "sky-crest-flat-bedroom-1",
+            "forwardLabel": "Enter Bedroom 1",
+            "rightNodeId": "sky-crest-flat-hall",
+            "rightLabel": "Main Hall",
+            "backwardNodeId": "sky-crest-ext-back",
+            "backwardLabel": "Building Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-bal-inside",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Return Inside",
+              "detail": "Step back through glass sliders.",
+              "targetNodeId": "sky-crest-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-bedroom-2",
+          "title": "Bedroom 2 (Right → Straight & Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Wing · Bedroom 2",
+          "description": "From Main Hall, go right straight and left into Bedroom 2 with its attached bathroom.",
+          "connections": {
+            "leftNodeId": "sky-crest-flat-bath-2",
+            "leftLabel": "Attached Bathroom 2",
+            "backwardNodeId": "sky-crest-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "sky-crest-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-b2-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 2",
+              "detail": "Inspect Bedroom 2 attached bathroom.",
+              "targetNodeId": "sky-crest-flat-bath-2"
+            }
+          ]
+        },
+        {
+          "id": "sky-crest-flat-bath-2",
+          "title": "Attached Bathroom 2",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Bedroom 2 Ensuite",
+          "description": "Attached bathroom inside Bedroom 2 wing. Return to Bedroom 2 or back to the Main Hall.",
+          "connections": {
+            "backwardNodeId": "sky-crest-flat-bedroom-2",
+            "backwardLabel": "Back to Bedroom 2",
+            "rightNodeId": "sky-crest-flat-hall",
+            "rightLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "sky-crest-hs-bath2-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 2",
+              "detail": "Step back into Bedroom 2.",
+              "targetNodeId": "sky-crest-flat-bedroom-2"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "id": "gal-ext",
+          "category": "Building Exterior",
+          "title": "Sky Crest Residences — Front Elevation",
+          "caption": "Architectural stone cladding, crisp metal louvers, and arrival canopy.",
+          "imageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg"
+        },
+        {
+          "id": "gal-int",
+          "category": "Building Interior",
+          "title": "Main Living Hall",
+          "caption": "Open-plan living and dining space with engineered oak flooring.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-ent",
+          "category": "Entrance",
+          "title": "Main Gate & Reception Plaza",
+          "caption": "Landscaped entrance court, security desk, and lobby canopy.",
+          "imageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg"
+        },
+        {
+          "id": "gal-liv",
+          "category": "Living Room",
+          "title": "Corner Living Pavilion",
+          "caption": "Floor-to-ceiling glazing opening onto balcony seating.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-bed",
+          "category": "Bedrooms",
+          "title": "Master Bedroom Suite",
+          "caption": "Natural daylight window, balcony access, and attached bathroom.",
+          "imageUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg"
+        },
+        {
+          "id": "gal-kit",
+          "category": "Kitchen",
+          "title": "Open Travertine & Navy Kitchen",
+          "caption": "Custom cabinetry with travertine breakfast island and utility door.",
+          "imageUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg"
+        },
+        {
+          "id": "gal-bath",
+          "category": "Bathrooms",
+          "title": "Attached Ensuite Bathroom",
+          "caption": "Honed limestone surfaces, timber vanity, and glass shower.",
+          "imageUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg"
+        },
+        {
+          "id": "gal-bal",
+          "category": "Balconies",
+          "title": "Private Sit-Out Balcony",
+          "caption": "Frameless glass railing overlooking landscaped garden lawns.",
+          "imageUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg"
+        },
+        {
+          "id": "gal-prk",
+          "category": "Parking",
+          "title": "Covered Parking Driveway",
+          "caption": "EV-ready stilt and basement bays.",
+          "imageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg"
+        },
+        {
+          "id": "gal-amn",
+          "category": "Amenities",
+          "title": "Swimming Pool & Clubhouse",
+          "caption": "Courtyard lap pool, shaded pergolas, and resident lounge.",
+          "imageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg"
+        },
+        {
+          "id": "gal-rd",
+          "category": "Surrounding Roads",
+          "title": "Avenue Frontage & Jogging Loop",
+          "caption": "Tree-lined street, walking track, and landscaped setback.",
+          "imageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aurelia-heights",
+      "name": "Aurelia Heights",
+      "tagline": "Sandstone Corner Plaza · Dual Road Access",
+      "location": "Banjara Ridge, Hyderabad",
+      "completeAddress": "Corner Plot 8B, Ridge Boulevard, Hyderabad 500034",
+      "coordinates": {
+        "lat": 17.4156,
+        "lng": 78.4347
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=17.4156,78.4347",
+      "shortDescription": "4 floors · 16 curved-corner 2 BHK & 3 BHK homes with botanical parkway.",
+      "overviewDescription": "Curved sandstone corner complex featuring botanical-green balustrades, a lagoon courtyard pool, garden clubhouse pavilion, and dedicated basement parking.",
+      "constructionStatus": "Finishing Stage",
+      "mainImageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg",
+      "isPlaceholderDetails": false,
+      "highlights": [
+        "Dual-road corner frontage & fountain plaza",
+        "Curved corner balconies & acoustic glazing",
+        "Lagoon pool deck & indoor gym studio",
+        "100% power backup & rainwater harvesting"
+      ],
+      "buildingInfo": {
+        "totalLandAreaSqYds": 940,
+        "totalBuiltUpAreaSqFt": 26600,
+        "totalBlocks": 1,
+        "totalFloors": 4,
+        "flatsPerFloor": 4,
+        "configurations": [
+          "2 BHK",
+          "3 BHK"
+        ],
+        "parkingFacilities": "22 Covered Basement Bays",
+        "amenities": [
+          "Lagoon Swimming Pool",
+          "Garden Clubhouse Pavilion",
+          "Walking & Jogging Trail",
+          "Children’s Play Lawn",
+          "Corner Seating Plaza",
+          "EV Charger Bay"
+        ]
+      },
+      "floors": [
+        {
+          "floorIndex": 0,
+          "floorName": "Ground Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "aurelia-flat-G01",
+              "flatNumber": "G01",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (G01-A)",
+              "price": "$248,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-G02",
+              "flatNumber": "G02",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G02-A, G02-B)",
+              "price": "$342,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-G03",
+              "flatNumber": "G03",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G03-A, G03-B)",
+              "price": "$342,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-G04",
+              "flatNumber": "G04",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "SW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (G04-A)",
+              "price": "$248,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 1,
+          "floorName": "First Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "aurelia-flat-101",
+              "flatNumber": "101",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (101-A)",
+              "price": "$248,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-102",
+              "flatNumber": "102",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (102-A, 102-B)",
+              "price": "$342,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-103",
+              "flatNumber": "103",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (103-A, 103-B)",
+              "price": "$342,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-104",
+              "flatNumber": "104",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "SW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (104-A)",
+              "price": "$248,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 2,
+          "floorName": "Second Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "aurelia-flat-201",
+              "flatNumber": "201",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (201-A)",
+              "price": "$248,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-202",
+              "flatNumber": "202",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (202-A, 202-B)",
+              "price": "$342,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-203",
+              "flatNumber": "203",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (203-A, 203-B)",
+              "price": "$342,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-204",
+              "flatNumber": "204",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "SW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (204-A)",
+              "price": "$248,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 3,
+          "floorName": "Third Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "aurelia-flat-301",
+              "flatNumber": "301",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (301-A)",
+              "price": "$248,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-302",
+              "flatNumber": "302",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (302-A, 302-B)",
+              "price": "$342,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-303",
+              "flatNumber": "303",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 63,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (303-A, 303-B)",
+              "price": "$342,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "aurelia-flat-304",
+              "flatNumber": "304",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 55,
+              "facing": "SW",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (304-A)",
+              "price": "$248,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        }
+      ],
+      "directionalViews": [
+        {
+          "direction": "N",
+          "label": "North-Facing View",
+          "bearingDegrees": 0,
+          "panoramaNodeId": "aurelia-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front side facing Ridge Boulevard with main gate and landscaped setback.",
+          "verifiedSiteNote": "Front setback: 28 ft buffer facing North avenue."
+        },
+        {
+          "direction": "NE",
+          "label": "North-East Corner View",
+          "bearingDegrees": 45,
+          "panoramaNodeId": "aurelia-ext-front",
+          "previewImageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg",
+          "description": "Corner arrival plaza and morning light lobby elevation.",
+          "verifiedSiteNote": "Vastu-aligned NE corner gate entry."
+        },
+        {
+          "direction": "E",
+          "label": "East-Facing View",
+          "bearingDegrees": 90,
+          "panoramaNodeId": "aurelia-ext-right",
+          "previewImageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "description": "Right side elevation with morning light living balconies.",
+          "verifiedSiteNote": "24 ft right-side setback along residential parkway."
+        },
+        {
+          "direction": "SE",
+          "label": "South-East Corner View",
+          "bearingDegrees": 135,
+          "panoramaNodeId": "aurelia-ext-back",
+          "previewImageUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "description": "Rear-right corner overlooking courtyard deck and pergolas.",
+          "verifiedSiteNote": "Deep overhangs calibrated for mid-day shade."
+        },
+        {
+          "direction": "S",
+          "label": "South-Facing View",
+          "bearingDegrees": 180,
+          "panoramaNodeId": "aurelia-ext-back",
+          "previewImageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg",
+          "description": "Back side elevation overlooking private garden lawn and pool.",
+          "verifiedSiteNote": "Private landscaped rear buffer."
+        },
+        {
+          "direction": "SW",
+          "label": "South-West Corner View",
+          "bearingDegrees": 225,
+          "panoramaNodeId": "aurelia-ext-left",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Rear-left driveway ramp and western balcony wing.",
+          "verifiedSiteNote": "Dedicated basement ramp on SW corner."
+        },
+        {
+          "direction": "W",
+          "label": "West-Facing View",
+          "bearingDegrees": 270,
+          "panoramaNodeId": "aurelia-ext-left",
+          "previewImageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg",
+          "description": "Left side roadway facing tree-lined residential avenue.",
+          "verifiedSiteNote": "30 ft clear sightline corridor on West boundary."
+        },
+        {
+          "direction": "NW",
+          "label": "North-West Corner View",
+          "bearingDegrees": 315,
+          "panoramaNodeId": "aurelia-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front-left corner approach from main street junction.",
+          "verifiedSiteNote": "Primary vehicle drop-off turn-in."
+        }
+      ],
+      "panoramas": [
+        {
+          "id": "aurelia-ext-front",
+          "title": "Front Side — Main Gate & Avenue",
+          "category": "road",
+          "zone": "exterior",
+          "exteriorSide": "front",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Front Side (North)",
+          "description": "Outside Aurelia Heights along Ridge Boulevard. Select a floor & flat below to enter the gate, or inspect Back, Left, and Right building sides.",
+          "connections": {
+            "forwardNodeId": "aurelia-flat-gate",
+            "forwardLabel": "Enter Flat Gate",
+            "backwardNodeId": "aurelia-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "aurelia-ext-left",
+            "leftLabel": "Left Side",
+            "rightNodeId": "aurelia-ext-right",
+            "rightLabel": "Right Side"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-front-gate",
+              "yaw": 0,
+              "pitch": 2,
+              "title": "Main Apartment Gate",
+              "detail": "Choose floor and flat to step inside the apartment gate.",
+              "targetNodeId": "aurelia-flat-gate"
+            },
+            {
+              "id": "aurelia-hs-front-right",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Right Side Elevation",
+              "detail": "Inspect East side setback and balconies.",
+              "targetNodeId": "aurelia-ext-right"
+            },
+            {
+              "id": "aurelia-hs-front-left",
+              "yaw": 278,
+              "pitch": 0,
+              "title": "Left Side Avenue",
+              "detail": "Inspect West driveway and parking ramp.",
+              "targetNodeId": "aurelia-ext-left"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-ext-right",
+          "title": "Right Side — East Elevation",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "right",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Side (East)",
+          "description": "Right side of Aurelia Heights showing eastern balconies and 24 ft parkway setback.",
+          "connections": {
+            "forwardNodeId": "aurelia-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "aurelia-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "aurelia-ext-front",
+            "leftLabel": "Front Gate",
+            "rightNodeId": "aurelia-ext-back",
+            "rightLabel": "Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-right-front",
+              "yaw": 0,
+              "pitch": 0,
+              "title": "Return to Front Side",
+              "detail": "Back to main avenue gate.",
+              "targetNodeId": "aurelia-ext-front"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-ext-left",
+          "title": "Left Side — West Driveway",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "left",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 270,
+          "compassHeadingLabel": "Left Side (West)",
+          "description": "Left side of Aurelia Heights showing basement parking ramp and western street trees.",
+          "connections": {
+            "forwardNodeId": "aurelia-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "aurelia-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "aurelia-ext-back",
+            "leftLabel": "Back Side",
+            "rightNodeId": "aurelia-ext-front",
+            "rightLabel": "Front Gate"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-left-ramp",
+              "yaw": 260,
+              "pitch": -3,
+              "title": "Covered Parking Ramp",
+              "detail": "Stilt and basement EV-ready bays."
+            }
+          ]
+        },
+        {
+          "id": "aurelia-ext-back",
+          "title": "Back Side — Courtyard & Terrace",
+          "category": "amenity",
+          "zone": "exterior",
+          "exteriorSide": "back",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Back Side (South)",
+          "description": "Back side of Aurelia Heights overlooking the reflection pool, courtyard garden, and rear balconies.",
+          "connections": {
+            "forwardNodeId": "aurelia-ext-front",
+            "forwardLabel": "Front Side",
+            "leftNodeId": "aurelia-ext-right",
+            "leftLabel": "Right Side",
+            "rightNodeId": "aurelia-ext-left",
+            "rightLabel": "Left Side"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-back-pool",
+              "yaw": 185,
+              "pitch": -8,
+              "title": "Courtyard & Pool Deck",
+              "detail": "Private rear garden and lounge terrace."
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-gate",
+          "title": "Flat Entrance Gate",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Flat Main Door",
+          "description": "Standing at the flat entrance gate. Step forward into the Main Hall or return outside.",
+          "connections": {
+            "forwardNodeId": "aurelia-flat-hall",
+            "forwardLabel": "Enter Main Hall",
+            "backwardNodeId": "aurelia-ext-front",
+            "backwardLabel": "Exit Outside"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-gate-hall",
+              "yaw": 0,
+              "pitch": -2,
+              "title": "Enter First Hall",
+              "detail": "Step inside the main living hall.",
+              "targetNodeId": "aurelia-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-hall",
+          "title": "Main Hall (Living Room)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Central Hall Hub",
+          "description": "Right: Open Kitchen · Straight Left: Bedroom 1 (Bathroom & Back Balcony) · Right Straight → Left: Bedroom 2 (Bathroom) · Front: Entrance Gate.",
+          "connections": {
+            "forwardNodeId": "aurelia-flat-gate",
+            "forwardLabel": "Front: Entrance Gate",
+            "rightNodeId": "aurelia-flat-kitchen",
+            "rightLabel": "Right: Open Kitchen",
+            "leftNodeId": "aurelia-flat-bedroom-1",
+            "leftLabel": "Straight Left: Bedroom 1",
+            "backwardNodeId": "aurelia-flat-bedroom-2",
+            "backwardLabel": "Right Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-hall-kitchen",
+              "yaw": 82,
+              "pitch": -3,
+              "title": "Open Kitchen (Right)",
+              "detail": "Travertine island and deep-teal modular cabinetry.",
+              "targetNodeId": "aurelia-flat-kitchen"
+            },
+            {
+              "id": "aurelia-hs-hall-bed1",
+              "yaw": 280,
+              "pitch": 0,
+              "title": "Bedroom 1 (Straight Left)",
+              "detail": "Primary suite with attached bathroom and back balcony.",
+              "targetNodeId": "aurelia-flat-bedroom-1"
+            },
+            {
+              "id": "aurelia-hs-hall-bed2",
+              "yaw": 145,
+              "pitch": 0,
+              "title": "Bedroom 2 (Right → Straight & Left)",
+              "detail": "Second bedroom wing with attached bathroom.",
+              "targetNodeId": "aurelia-flat-bedroom-2"
+            },
+            {
+              "id": "aurelia-hs-hall-balcony",
+              "yaw": 8,
+              "pitch": 0,
+              "title": "Balcony View",
+              "detail": "Inspect outdoor glass-railing balcony.",
+              "targetNodeId": "aurelia-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-kitchen",
+          "title": "Open Kitchen (Right of Hall)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 45,
+          "compassHeadingLabel": "Right Wing · Open Kitchen",
+          "description": "Open kitchen on the right side of the hall with travertine island and direct view back to the living hall.",
+          "connections": {
+            "leftNodeId": "aurelia-flat-hall",
+            "leftLabel": "Main Hall",
+            "backwardNodeId": "aurelia-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "aurelia-flat-bedroom-2",
+            "forwardLabel": "Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-kit-hall",
+              "yaw": 235,
+              "pitch": 0,
+              "title": "Back to Main Hall",
+              "detail": "Return to living hall center.",
+              "targetNodeId": "aurelia-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-bedroom-1",
+          "title": "Bedroom 1 (Straight Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 315,
+          "compassHeadingLabel": "Left Wing · Bedroom 1",
+          "description": "Straight left from the hall: Bedroom 1 with attached bathroom on the left and private balcony on the backside.",
+          "connections": {
+            "leftNodeId": "aurelia-flat-bath-1",
+            "leftLabel": "Attached Bathroom",
+            "backwardNodeId": "aurelia-flat-balcony",
+            "backwardLabel": "Back Balcony",
+            "rightNodeId": "aurelia-flat-hall",
+            "rightLabel": "Back to Hall",
+            "forwardNodeId": "aurelia-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-b1-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 1",
+              "detail": "Step inside the ensuite bathroom.",
+              "targetNodeId": "aurelia-flat-bath-1"
+            },
+            {
+              "id": "aurelia-hs-b1-balcony",
+              "yaw": 5,
+              "pitch": 0,
+              "title": "Backside Balcony",
+              "detail": "Open sliding doors to the private balcony.",
+              "targetNodeId": "aurelia-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-bath-1",
+          "title": "Attached Bathroom 1",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Bedroom 1 Ensuite",
+          "description": "Attached bathroom to Bedroom 1 featuring limestone walls, deep-teal vanity, and walk-in glass shower.",
+          "connections": {
+            "backwardNodeId": "aurelia-flat-bedroom-1",
+            "backwardLabel": "Back to Bedroom 1",
+            "rightNodeId": "aurelia-flat-bedroom-1",
+            "rightLabel": "Bedroom 1"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-bath1-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 1",
+              "detail": "Step back into Bedroom 1.",
+              "targetNodeId": "aurelia-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-balcony",
+          "title": "Backside Balcony",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Backside Private Balcony",
+          "description": "Private rear balcony with frameless glass railing overlooking courtyard gardens.",
+          "connections": {
+            "forwardNodeId": "aurelia-flat-bedroom-1",
+            "forwardLabel": "Enter Bedroom 1",
+            "rightNodeId": "aurelia-flat-hall",
+            "rightLabel": "Main Hall",
+            "backwardNodeId": "aurelia-ext-back",
+            "backwardLabel": "Building Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-bal-inside",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Return Inside",
+              "detail": "Step back through glass sliders.",
+              "targetNodeId": "aurelia-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-bedroom-2",
+          "title": "Bedroom 2 (Right → Straight & Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Wing · Bedroom 2",
+          "description": "From Main Hall, go right straight and left into Bedroom 2 with its attached bathroom.",
+          "connections": {
+            "leftNodeId": "aurelia-flat-bath-2",
+            "leftLabel": "Attached Bathroom 2",
+            "backwardNodeId": "aurelia-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "aurelia-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-b2-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 2",
+              "detail": "Inspect Bedroom 2 attached bathroom.",
+              "targetNodeId": "aurelia-flat-bath-2"
+            }
+          ]
+        },
+        {
+          "id": "aurelia-flat-bath-2",
+          "title": "Attached Bathroom 2",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Bedroom 2 Ensuite",
+          "description": "Attached bathroom inside Bedroom 2 wing. Return to Bedroom 2 or back to the Main Hall.",
+          "connections": {
+            "backwardNodeId": "aurelia-flat-bedroom-2",
+            "backwardLabel": "Back to Bedroom 2",
+            "rightNodeId": "aurelia-flat-hall",
+            "rightLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "aurelia-hs-bath2-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 2",
+              "detail": "Step back into Bedroom 2.",
+              "targetNodeId": "aurelia-flat-bedroom-2"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "id": "gal-ext",
+          "category": "Building Exterior",
+          "title": "Aurelia Heights — Front Elevation",
+          "caption": "Architectural stone cladding, crisp metal louvers, and arrival canopy.",
+          "imageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg"
+        },
+        {
+          "id": "gal-int",
+          "category": "Building Interior",
+          "title": "Main Living Hall",
+          "caption": "Open-plan living and dining space with engineered oak flooring.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-ent",
+          "category": "Entrance",
+          "title": "Main Gate & Reception Plaza",
+          "caption": "Landscaped entrance court, security desk, and lobby canopy.",
+          "imageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg"
+        },
+        {
+          "id": "gal-liv",
+          "category": "Living Room",
+          "title": "Corner Living Pavilion",
+          "caption": "Floor-to-ceiling glazing opening onto balcony seating.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-bed",
+          "category": "Bedrooms",
+          "title": "Master Bedroom Suite",
+          "caption": "Natural daylight window, balcony access, and attached bathroom.",
+          "imageUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg"
+        },
+        {
+          "id": "gal-kit",
+          "category": "Kitchen",
+          "title": "Open Travertine & Navy Kitchen",
+          "caption": "Custom cabinetry with travertine breakfast island and utility door.",
+          "imageUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg"
+        },
+        {
+          "id": "gal-bath",
+          "category": "Bathrooms",
+          "title": "Attached Ensuite Bathroom",
+          "caption": "Honed limestone surfaces, timber vanity, and glass shower.",
+          "imageUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg"
+        },
+        {
+          "id": "gal-bal",
+          "category": "Balconies",
+          "title": "Private Sit-Out Balcony",
+          "caption": "Frameless glass railing overlooking landscaped garden lawns.",
+          "imageUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg"
+        },
+        {
+          "id": "gal-prk",
+          "category": "Parking",
+          "title": "Covered Parking Driveway",
+          "caption": "EV-ready stilt and basement bays.",
+          "imageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg"
+        },
+        {
+          "id": "gal-amn",
+          "category": "Amenities",
+          "title": "Swimming Pool & Clubhouse",
+          "caption": "Courtyard lap pool, shaded pergolas, and resident lounge.",
+          "imageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg"
+        },
+        {
+          "id": "gal-rd",
+          "category": "Surrounding Roads",
+          "title": "Avenue Frontage & Jogging Loop",
+          "caption": "Tree-lined street, walking track, and landscaped setback.",
+          "imageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg"
+        }
+      ]
+    },
+    {
+      "id": "saffron-quarters",
+      "name": "Saffron Quarters",
+      "tagline": "Stepped Garden Terraces · Courtyard Homes",
+      "location": "Gachibowli Greenbelt, Hyderabad",
+      "completeAddress": "Survey 42, Cedar Courtyard Road, Gachibowli, Hyderabad 500032",
+      "coordinates": {
+        "lat": 17.4401,
+        "lng": 78.3489
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=17.4401,78.3489",
+      "shortDescription": "5 floors · 15 terraced 3 BHK & Study homes overlooking central botanical lawns.",
+      "overviewDescription": "Stepped terrace architecture with warm cedar soffits, private planted sky-decks, a central courtyard reflection pool, and three expansive residences per floor.",
+      "constructionStatus": "Under Construction",
+      "mainImageUrl": "/src/assets/images/apt_third_exterior_1795416772890.jpg",
+      "isPlaceholderDetails": false,
+      "highlights": [
+        "3 expansive residences per floor",
+        "Stepped sky-terrace planter decks",
+        "Sunken courtyard pool & cedar clubhouse",
+        "Dedicated study alcoves & walk-in utility"
+      ],
+      "buildingInfo": {
+        "totalLandAreaSqYds": 1280,
+        "totalBuiltUpAreaSqFt": 31800,
+        "totalBlocks": 1,
+        "totalFloors": 5,
+        "flatsPerFloor": 3,
+        "configurations": [
+          "3 BHK",
+          "3 BHK + Study"
+        ],
+        "parkingFacilities": "30 Covered Stilt Bays",
+        "amenities": [
+          "Sunken Courtyard Pool",
+          "Cedar Timber Clubhouse",
+          "Central Botanical Lawn",
+          "Reflexology Walking Track",
+          "Shaded Children’s Play Area",
+          "Biometric Access Control"
+        ]
+      },
+      "floors": [
+        {
+          "floorIndex": 0,
+          "floorName": "Ground Floor",
+          "floorSummary": "3 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "saffron-flat-G01",
+              "flatNumber": "G01",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G01-A, G01-B)",
+              "price": "$385,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-G02",
+              "flatNumber": "G02",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G02-A, G02-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 323,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-G03",
+              "flatNumber": "G03",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK + Study",
+              "carpetAreaSqFt": 1640,
+              "builtUpAreaSqFt": 1935,
+              "superBuiltUpAreaSqFt": 2198,
+              "landShareSqYds": 84,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G03-A, G03-B)",
+              "price": "$445,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 110,
+                "y": 236,
+                "w": 380,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 1,
+          "floorName": "First Floor",
+          "floorSummary": "3 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "saffron-flat-101",
+              "flatNumber": "101",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (101-A, 101-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-102",
+              "flatNumber": "102",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (102-A, 102-B)",
+              "price": "$385,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 323,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-103",
+              "flatNumber": "103",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK + Study",
+              "carpetAreaSqFt": 1640,
+              "builtUpAreaSqFt": 1935,
+              "superBuiltUpAreaSqFt": 2198,
+              "landShareSqYds": 84,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (103-A, 103-B)",
+              "price": "$445,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 110,
+                "y": 236,
+                "w": 380,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 2,
+          "floorName": "Second Floor",
+          "floorSummary": "3 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "saffron-flat-201",
+              "flatNumber": "201",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (201-A, 201-B)",
+              "price": "$385,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-202",
+              "flatNumber": "202",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (202-A, 202-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 323,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-203",
+              "flatNumber": "203",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK + Study",
+              "carpetAreaSqFt": 1640,
+              "builtUpAreaSqFt": 1935,
+              "superBuiltUpAreaSqFt": 2198,
+              "landShareSqYds": 84,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (203-A, 203-B)",
+              "price": "$445,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 110,
+                "y": 236,
+                "w": 380,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 3,
+          "floorName": "Third Floor",
+          "floorSummary": "3 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "saffron-flat-301",
+              "flatNumber": "301",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (301-A, 301-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-302",
+              "flatNumber": "302",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (302-A, 302-B)",
+              "price": "$385,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 323,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-303",
+              "flatNumber": "303",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK + Study",
+              "carpetAreaSqFt": 1640,
+              "builtUpAreaSqFt": 1935,
+              "superBuiltUpAreaSqFt": 2198,
+              "landShareSqYds": 84,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (303-A, 303-B)",
+              "price": "$445,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 110,
+                "y": 236,
+                "w": 380,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 4,
+          "floorName": "Fourth Floor",
+          "floorSummary": "3 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "saffron-flat-401",
+              "flatNumber": "401",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (401-A, 401-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-402",
+              "flatNumber": "402",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 84,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (402-A, 402-B)",
+              "price": "$385,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 323,
+                "y": 34,
+                "w": 245,
+                "h": 155
+              }
+            },
+            {
+              "id": "saffron-flat-403",
+              "flatNumber": "403",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK + Study",
+              "carpetAreaSqFt": 1640,
+              "builtUpAreaSqFt": 1935,
+              "superBuiltUpAreaSqFt": 2198,
+              "landShareSqYds": 84,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (403-A, 403-B)",
+              "price": "$445,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 110,
+                "y": 236,
+                "w": 380,
+                "h": 150
+              }
+            }
+          ]
+        }
+      ],
+      "directionalViews": [
+        {
+          "direction": "N",
+          "label": "North-Facing View",
+          "bearingDegrees": 0,
+          "panoramaNodeId": "saffron-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front side facing Cedar Courtyard Road with main gate and landscaped setback.",
+          "verifiedSiteNote": "Front setback: 28 ft buffer facing North avenue."
+        },
+        {
+          "direction": "NE",
+          "label": "North-East Corner View",
+          "bearingDegrees": 45,
+          "panoramaNodeId": "saffron-ext-front",
+          "previewImageUrl": "/src/assets/images/apt_third_exterior_1795416772890.jpg",
+          "description": "Corner arrival plaza and morning light lobby elevation.",
+          "verifiedSiteNote": "Vastu-aligned NE corner gate entry."
+        },
+        {
+          "direction": "E",
+          "label": "East-Facing View",
+          "bearingDegrees": 90,
+          "panoramaNodeId": "saffron-ext-right",
+          "previewImageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "description": "Right side elevation with morning light living balconies.",
+          "verifiedSiteNote": "24 ft right-side setback along residential parkway."
+        },
+        {
+          "direction": "SE",
+          "label": "South-East Corner View",
+          "bearingDegrees": 135,
+          "panoramaNodeId": "saffron-ext-back",
+          "previewImageUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "description": "Rear-right corner overlooking courtyard deck and pergolas.",
+          "verifiedSiteNote": "Deep overhangs calibrated for mid-day shade."
+        },
+        {
+          "direction": "S",
+          "label": "South-Facing View",
+          "bearingDegrees": 180,
+          "panoramaNodeId": "saffron-ext-back",
+          "previewImageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg",
+          "description": "Back side elevation overlooking private garden lawn and pool.",
+          "verifiedSiteNote": "Private landscaped rear buffer."
+        },
+        {
+          "direction": "SW",
+          "label": "South-West Corner View",
+          "bearingDegrees": 225,
+          "panoramaNodeId": "saffron-ext-left",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Rear-left driveway ramp and western balcony wing.",
+          "verifiedSiteNote": "Dedicated basement ramp on SW corner."
+        },
+        {
+          "direction": "W",
+          "label": "West-Facing View",
+          "bearingDegrees": 270,
+          "panoramaNodeId": "saffron-ext-left",
+          "previewImageUrl": "/src/assets/images/apt_third_exterior_1795416772890.jpg",
+          "description": "Left side roadway facing tree-lined residential avenue.",
+          "verifiedSiteNote": "30 ft clear sightline corridor on West boundary."
+        },
+        {
+          "direction": "NW",
+          "label": "North-West Corner View",
+          "bearingDegrees": 315,
+          "panoramaNodeId": "saffron-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front-left corner approach from main street junction.",
+          "verifiedSiteNote": "Primary vehicle drop-off turn-in."
+        }
+      ],
+      "panoramas": [
+        {
+          "id": "saffron-ext-front",
+          "title": "Front Side — Main Gate & Avenue",
+          "category": "road",
+          "zone": "exterior",
+          "exteriorSide": "front",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Front Side (North)",
+          "description": "Outside Saffron Quarters along Cedar Courtyard Road. Select a floor & flat below to enter the gate, or inspect Back, Left, and Right building sides.",
+          "connections": {
+            "forwardNodeId": "saffron-flat-gate",
+            "forwardLabel": "Enter Flat Gate",
+            "backwardNodeId": "saffron-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "saffron-ext-left",
+            "leftLabel": "Left Side",
+            "rightNodeId": "saffron-ext-right",
+            "rightLabel": "Right Side"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-front-gate",
+              "yaw": 0,
+              "pitch": 2,
+              "title": "Main Apartment Gate",
+              "detail": "Choose floor and flat to step inside the apartment gate.",
+              "targetNodeId": "saffron-flat-gate"
+            },
+            {
+              "id": "saffron-hs-front-right",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Right Side Elevation",
+              "detail": "Inspect East side setback and balconies.",
+              "targetNodeId": "saffron-ext-right"
+            },
+            {
+              "id": "saffron-hs-front-left",
+              "yaw": 278,
+              "pitch": 0,
+              "title": "Left Side Avenue",
+              "detail": "Inspect West driveway and parking ramp.",
+              "targetNodeId": "saffron-ext-left"
+            }
+          ]
+        },
+        {
+          "id": "saffron-ext-right",
+          "title": "Right Side — East Elevation",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "right",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Side (East)",
+          "description": "Right side of Saffron Quarters showing eastern balconies and 24 ft parkway setback.",
+          "connections": {
+            "forwardNodeId": "saffron-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "saffron-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "saffron-ext-front",
+            "leftLabel": "Front Gate",
+            "rightNodeId": "saffron-ext-back",
+            "rightLabel": "Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-right-front",
+              "yaw": 0,
+              "pitch": 0,
+              "title": "Return to Front Side",
+              "detail": "Back to main avenue gate.",
+              "targetNodeId": "saffron-ext-front"
+            }
+          ]
+        },
+        {
+          "id": "saffron-ext-left",
+          "title": "Left Side — West Driveway",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "left",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 270,
+          "compassHeadingLabel": "Left Side (West)",
+          "description": "Left side of Saffron Quarters showing basement parking ramp and western street trees.",
+          "connections": {
+            "forwardNodeId": "saffron-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "saffron-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "saffron-ext-back",
+            "leftLabel": "Back Side",
+            "rightNodeId": "saffron-ext-front",
+            "rightLabel": "Front Gate"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-left-ramp",
+              "yaw": 260,
+              "pitch": -3,
+              "title": "Covered Parking Ramp",
+              "detail": "Stilt and basement EV-ready bays."
+            }
+          ]
+        },
+        {
+          "id": "saffron-ext-back",
+          "title": "Back Side — Courtyard & Terrace",
+          "category": "amenity",
+          "zone": "exterior",
+          "exteriorSide": "back",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Back Side (South)",
+          "description": "Back side of Saffron Quarters overlooking the reflection pool, courtyard garden, and rear balconies.",
+          "connections": {
+            "forwardNodeId": "saffron-ext-front",
+            "forwardLabel": "Front Side",
+            "leftNodeId": "saffron-ext-right",
+            "leftLabel": "Right Side",
+            "rightNodeId": "saffron-ext-left",
+            "rightLabel": "Left Side"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-back-pool",
+              "yaw": 185,
+              "pitch": -8,
+              "title": "Courtyard & Pool Deck",
+              "detail": "Private rear garden and lounge terrace."
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-gate",
+          "title": "Flat Entrance Gate",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Flat Main Door",
+          "description": "Standing at the flat entrance gate. Step forward into the Main Hall or return outside.",
+          "connections": {
+            "forwardNodeId": "saffron-flat-hall",
+            "forwardLabel": "Enter Main Hall",
+            "backwardNodeId": "saffron-ext-front",
+            "backwardLabel": "Exit Outside"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-gate-hall",
+              "yaw": 0,
+              "pitch": -2,
+              "title": "Enter First Hall",
+              "detail": "Step inside the main living hall.",
+              "targetNodeId": "saffron-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-hall",
+          "title": "Main Hall (Living Room)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Central Hall Hub",
+          "description": "Right: Open Kitchen · Straight Left: Bedroom 1 (Bathroom & Back Balcony) · Right Straight → Left: Bedroom 2 (Bathroom) · Front: Entrance Gate.",
+          "connections": {
+            "forwardNodeId": "saffron-flat-gate",
+            "forwardLabel": "Front: Entrance Gate",
+            "rightNodeId": "saffron-flat-kitchen",
+            "rightLabel": "Right: Open Kitchen",
+            "leftNodeId": "saffron-flat-bedroom-1",
+            "leftLabel": "Straight Left: Bedroom 1",
+            "backwardNodeId": "saffron-flat-bedroom-2",
+            "backwardLabel": "Right Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-hall-kitchen",
+              "yaw": 82,
+              "pitch": -3,
+              "title": "Open Kitchen (Right)",
+              "detail": "Travertine island and deep-teal modular cabinetry.",
+              "targetNodeId": "saffron-flat-kitchen"
+            },
+            {
+              "id": "saffron-hs-hall-bed1",
+              "yaw": 280,
+              "pitch": 0,
+              "title": "Bedroom 1 (Straight Left)",
+              "detail": "Primary suite with attached bathroom and back balcony.",
+              "targetNodeId": "saffron-flat-bedroom-1"
+            },
+            {
+              "id": "saffron-hs-hall-bed2",
+              "yaw": 145,
+              "pitch": 0,
+              "title": "Bedroom 2 (Right → Straight & Left)",
+              "detail": "Second bedroom wing with attached bathroom.",
+              "targetNodeId": "saffron-flat-bedroom-2"
+            },
+            {
+              "id": "saffron-hs-hall-balcony",
+              "yaw": 8,
+              "pitch": 0,
+              "title": "Balcony View",
+              "detail": "Inspect outdoor glass-railing balcony.",
+              "targetNodeId": "saffron-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-kitchen",
+          "title": "Open Kitchen (Right of Hall)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 45,
+          "compassHeadingLabel": "Right Wing · Open Kitchen",
+          "description": "Open kitchen on the right side of the hall with travertine island and direct view back to the living hall.",
+          "connections": {
+            "leftNodeId": "saffron-flat-hall",
+            "leftLabel": "Main Hall",
+            "backwardNodeId": "saffron-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "saffron-flat-bedroom-2",
+            "forwardLabel": "Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-kit-hall",
+              "yaw": 235,
+              "pitch": 0,
+              "title": "Back to Main Hall",
+              "detail": "Return to living hall center.",
+              "targetNodeId": "saffron-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-bedroom-1",
+          "title": "Bedroom 1 (Straight Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 315,
+          "compassHeadingLabel": "Left Wing · Bedroom 1",
+          "description": "Straight left from the hall: Bedroom 1 with attached bathroom on the left and private balcony on the backside.",
+          "connections": {
+            "leftNodeId": "saffron-flat-bath-1",
+            "leftLabel": "Attached Bathroom",
+            "backwardNodeId": "saffron-flat-balcony",
+            "backwardLabel": "Back Balcony",
+            "rightNodeId": "saffron-flat-hall",
+            "rightLabel": "Back to Hall",
+            "forwardNodeId": "saffron-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-b1-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 1",
+              "detail": "Step inside the ensuite bathroom.",
+              "targetNodeId": "saffron-flat-bath-1"
+            },
+            {
+              "id": "saffron-hs-b1-balcony",
+              "yaw": 5,
+              "pitch": 0,
+              "title": "Backside Balcony",
+              "detail": "Open sliding doors to the private balcony.",
+              "targetNodeId": "saffron-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-bath-1",
+          "title": "Attached Bathroom 1",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Bedroom 1 Ensuite",
+          "description": "Attached bathroom to Bedroom 1 featuring limestone walls, deep-teal vanity, and walk-in glass shower.",
+          "connections": {
+            "backwardNodeId": "saffron-flat-bedroom-1",
+            "backwardLabel": "Back to Bedroom 1",
+            "rightNodeId": "saffron-flat-bedroom-1",
+            "rightLabel": "Bedroom 1"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-bath1-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 1",
+              "detail": "Step back into Bedroom 1.",
+              "targetNodeId": "saffron-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-balcony",
+          "title": "Backside Balcony",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Backside Private Balcony",
+          "description": "Private rear balcony with frameless glass railing overlooking courtyard gardens.",
+          "connections": {
+            "forwardNodeId": "saffron-flat-bedroom-1",
+            "forwardLabel": "Enter Bedroom 1",
+            "rightNodeId": "saffron-flat-hall",
+            "rightLabel": "Main Hall",
+            "backwardNodeId": "saffron-ext-back",
+            "backwardLabel": "Building Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-bal-inside",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Return Inside",
+              "detail": "Step back through glass sliders.",
+              "targetNodeId": "saffron-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-bedroom-2",
+          "title": "Bedroom 2 (Right → Straight & Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Wing · Bedroom 2",
+          "description": "From Main Hall, go right straight and left into Bedroom 2 with its attached bathroom.",
+          "connections": {
+            "leftNodeId": "saffron-flat-bath-2",
+            "leftLabel": "Attached Bathroom 2",
+            "backwardNodeId": "saffron-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "saffron-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-b2-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 2",
+              "detail": "Inspect Bedroom 2 attached bathroom.",
+              "targetNodeId": "saffron-flat-bath-2"
+            }
+          ]
+        },
+        {
+          "id": "saffron-flat-bath-2",
+          "title": "Attached Bathroom 2",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Bedroom 2 Ensuite",
+          "description": "Attached bathroom inside Bedroom 2 wing. Return to Bedroom 2 or back to the Main Hall.",
+          "connections": {
+            "backwardNodeId": "saffron-flat-bedroom-2",
+            "backwardLabel": "Back to Bedroom 2",
+            "rightNodeId": "saffron-flat-hall",
+            "rightLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "saffron-hs-bath2-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 2",
+              "detail": "Step back into Bedroom 2.",
+              "targetNodeId": "saffron-flat-bedroom-2"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "id": "gal-ext",
+          "category": "Building Exterior",
+          "title": "Saffron Quarters — Front Elevation",
+          "caption": "Architectural stone cladding, crisp metal louvers, and arrival canopy.",
+          "imageUrl": "/src/assets/images/apt_third_exterior_1795416772890.jpg"
+        },
+        {
+          "id": "gal-int",
+          "category": "Building Interior",
+          "title": "Main Living Hall",
+          "caption": "Open-plan living and dining space with engineered oak flooring.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-ent",
+          "category": "Entrance",
+          "title": "Main Gate & Reception Plaza",
+          "caption": "Landscaped entrance court, security desk, and lobby canopy.",
+          "imageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg"
+        },
+        {
+          "id": "gal-liv",
+          "category": "Living Room",
+          "title": "Corner Living Pavilion",
+          "caption": "Floor-to-ceiling glazing opening onto balcony seating.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-bed",
+          "category": "Bedrooms",
+          "title": "Master Bedroom Suite",
+          "caption": "Natural daylight window, balcony access, and attached bathroom.",
+          "imageUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg"
+        },
+        {
+          "id": "gal-kit",
+          "category": "Kitchen",
+          "title": "Open Travertine & Navy Kitchen",
+          "caption": "Custom cabinetry with travertine breakfast island and utility door.",
+          "imageUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg"
+        },
+        {
+          "id": "gal-bath",
+          "category": "Bathrooms",
+          "title": "Attached Ensuite Bathroom",
+          "caption": "Honed limestone surfaces, timber vanity, and glass shower.",
+          "imageUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg"
+        },
+        {
+          "id": "gal-bal",
+          "category": "Balconies",
+          "title": "Private Sit-Out Balcony",
+          "caption": "Frameless glass railing overlooking landscaped garden lawns.",
+          "imageUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg"
+        },
+        {
+          "id": "gal-prk",
+          "category": "Parking",
+          "title": "Covered Parking Driveway",
+          "caption": "EV-ready stilt and basement bays.",
+          "imageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg"
+        },
+        {
+          "id": "gal-amn",
+          "category": "Amenities",
+          "title": "Swimming Pool & Clubhouse",
+          "caption": "Courtyard lap pool, shaded pergolas, and resident lounge.",
+          "imageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg"
+        },
+        {
+          "id": "gal-rd",
+          "category": "Surrounding Roads",
+          "title": "Avenue Frontage & Jogging Loop",
+          "caption": "Tree-lined street, walking track, and landscaped setback.",
+          "imageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg"
+        }
+      ]
+    },
+    {
+      "id": "blue-bay-terrace",
+      "name": "Blue Bay Terrace",
+      "tagline": "Six-Story Waterfront Tower · Panoramic Glass",
+      "location": "Financial District Lakefront, Hyderabad",
+      "completeAddress": "Plot 3, Azure Lakefront Parkway, Hyderabad 500032",
+      "coordinates": {
+        "lat": 17.4198,
+        "lng": 78.3422
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=17.4198,78.3422",
+      "shortDescription": "6 floors · 24 luxury 2 BHK, 3 BHK & 4 BHK Penthouse homes by the waterfront.",
+      "overviewDescription": "Six-story limestone and glass lakefront residence featuring wrap-around sky balconies, a timber waterfront boardwalk, infinity edge pool, and resident sky lounge.",
+      "constructionStatus": "New Launch",
+      "mainImageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg",
+      "isPlaceholderDetails": false,
+      "highlights": [
+        "Double-height concierge reception lobby",
+        "Wrap-around 270-degree glass balconies",
+        "Waterfront boardwalk & infinity edge pool",
+        "Top-floor 4 BHK penthouses & twin lifts"
+      ],
+      "buildingInfo": {
+        "totalLandAreaSqYds": 1540,
+        "totalBuiltUpAreaSqFt": 48600,
+        "totalBlocks": 1,
+        "totalFloors": 6,
+        "flatsPerFloor": 4,
+        "configurations": [
+          "2 BHK",
+          "3 BHK",
+          "4 BHK Penthouse"
+        ],
+        "parkingFacilities": "44 Dual-Level Basement Bays",
+        "amenities": [
+          "Infinity Edge Waterfront Pool",
+          "Lakefront Timber Boardwalk",
+          "Sky Clubhouse & Lounge",
+          "Waterfront Jogging Promenade",
+          "Sculpture Garden & Play Zone",
+          "Concierge & Twin Elevators"
+        ]
+      },
+      "floors": [
+        {
+          "floorIndex": 0,
+          "floorName": "Ground Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-G01",
+              "flatNumber": "G01",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (G01-A)",
+              "price": "$295,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-G02",
+              "flatNumber": "G02",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G02-A, G02-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-G03",
+              "flatNumber": "G03",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (G03-A, G03-B)",
+              "price": "$415,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-G04",
+              "flatNumber": "G04",
+              "floorIndex": 0,
+              "floorLabel": "Ground Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (G04-A, G04-B)",
+              "price": "$625,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 1,
+          "floorName": "First Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-101",
+              "flatNumber": "101",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (101-A)",
+              "price": "$295,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-102",
+              "flatNumber": "102",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (102-A, 102-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-103",
+              "flatNumber": "103",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (103-A, 103-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-104",
+              "flatNumber": "104",
+              "floorIndex": 1,
+              "floorLabel": "First Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (104-A, 104-B)",
+              "price": "$625,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 2,
+          "floorName": "Second Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-201",
+              "flatNumber": "201",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (201-A)",
+              "price": "$295,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-202",
+              "flatNumber": "202",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (202-A, 202-B)",
+              "price": "$415,000",
+              "status": "Rented",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-203",
+              "flatNumber": "203",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (203-A, 203-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-204",
+              "flatNumber": "204",
+              "floorIndex": 2,
+              "floorLabel": "Second Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (204-A, 204-B)",
+              "price": "$625,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 3,
+          "floorName": "Third Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-301",
+              "flatNumber": "301",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (301-A)",
+              "price": "$295,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-302",
+              "flatNumber": "302",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (302-A, 302-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-303",
+              "flatNumber": "303",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (303-A, 303-B)",
+              "price": "$415,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-304",
+              "flatNumber": "304",
+              "floorIndex": 3,
+              "floorLabel": "Third Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (304-A, 304-B)",
+              "price": "$625,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 4,
+          "floorName": "Fourth Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-401",
+              "flatNumber": "401",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (401-A)",
+              "price": "$295,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-402",
+              "flatNumber": "402",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (402-A, 402-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-403",
+              "flatNumber": "403",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (403-A, 403-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-404",
+              "flatNumber": "404",
+              "floorIndex": 4,
+              "floorLabel": "Fourth Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (404-A, 404-B)",
+              "price": "$625,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        },
+        {
+          "floorIndex": 5,
+          "floorName": "Fifth Floor",
+          "floorSummary": "4 flats · Lift & stair core",
+          "flats": [
+            {
+              "id": "blue-bay-flat-501",
+              "flatNumber": "501",
+              "floorIndex": 5,
+              "floorLabel": "Fifth Floor",
+              "bhk": "2 BHK",
+              "carpetAreaSqFt": 1045,
+              "builtUpAreaSqFt": 1233,
+              "superBuiltUpAreaSqFt": 1400,
+              "landShareSqYds": 58,
+              "facing": "NE",
+              "balconyDetails": "1 Sit-Out Balcony (95 sq.ft)",
+              "bedrooms": 2,
+              "bathrooms": 2,
+              "parkingDetails": "1 Covered Bay (501-A)",
+              "price": "$295,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-502",
+              "flatNumber": "502",
+              "floorIndex": 5,
+              "floorLabel": "Fifth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "NW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (502-A, 502-B)",
+              "price": "$415,000",
+              "status": "Reserved",
+              "svgBounds": {
+                "x": 338,
+                "y": 34,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-503",
+              "flatNumber": "503",
+              "floorIndex": 5,
+              "floorLabel": "Fifth Floor",
+              "bhk": "3 BHK",
+              "carpetAreaSqFt": 1420,
+              "builtUpAreaSqFt": 1676,
+              "superBuiltUpAreaSqFt": 1903,
+              "landShareSqYds": 66,
+              "facing": "SE",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 3,
+              "bathrooms": 3,
+              "parkingDetails": "2 Covered Bays (503-A, 503-B)",
+              "price": "$415,000",
+              "status": "Available",
+              "svgBounds": {
+                "x": 32,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            },
+            {
+              "id": "blue-bay-flat-504",
+              "flatNumber": "504",
+              "floorIndex": 5,
+              "floorLabel": "Fifth Floor",
+              "bhk": "4 BHK Penthouse",
+              "carpetAreaSqFt": 2140,
+              "builtUpAreaSqFt": 2525,
+              "superBuiltUpAreaSqFt": 2868,
+              "landShareSqYds": 66,
+              "facing": "SW",
+              "balconyDetails": "2 Covered Balconies (145 sq.ft)",
+              "bedrooms": 4,
+              "bathrooms": 4,
+              "parkingDetails": "2 Covered Bays (504-A, 504-B)",
+              "price": "$625,000",
+              "status": "Sold",
+              "svgBounds": {
+                "x": 338,
+                "y": 236,
+                "w": 230,
+                "h": 150
+              }
+            }
+          ]
+        }
+      ],
+      "directionalViews": [
+        {
+          "direction": "N",
+          "label": "North-Facing View",
+          "bearingDegrees": 0,
+          "panoramaNodeId": "blue-bay-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front side facing Azure Lakefront Parkway with main gate and landscaped setback.",
+          "verifiedSiteNote": "Front setback: 28 ft buffer facing North avenue."
+        },
+        {
+          "direction": "NE",
+          "label": "North-East Corner View",
+          "bearingDegrees": 45,
+          "panoramaNodeId": "blue-bay-ext-front",
+          "previewImageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg",
+          "description": "Corner arrival plaza and morning light lobby elevation.",
+          "verifiedSiteNote": "Vastu-aligned NE corner gate entry."
+        },
+        {
+          "direction": "E",
+          "label": "East-Facing View",
+          "bearingDegrees": 90,
+          "panoramaNodeId": "blue-bay-ext-right",
+          "previewImageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "description": "Right side elevation with morning light living balconies.",
+          "verifiedSiteNote": "24 ft right-side setback along residential parkway."
+        },
+        {
+          "direction": "SE",
+          "label": "South-East Corner View",
+          "bearingDegrees": 135,
+          "panoramaNodeId": "blue-bay-ext-back",
+          "previewImageUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "description": "Rear-right corner overlooking courtyard deck and pergolas.",
+          "verifiedSiteNote": "Deep overhangs calibrated for mid-day shade."
+        },
+        {
+          "direction": "S",
+          "label": "South-Facing View",
+          "bearingDegrees": 180,
+          "panoramaNodeId": "blue-bay-ext-back",
+          "previewImageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg",
+          "description": "Back side elevation overlooking private garden lawn and pool.",
+          "verifiedSiteNote": "Private landscaped rear buffer."
+        },
+        {
+          "direction": "SW",
+          "label": "South-West Corner View",
+          "bearingDegrees": 225,
+          "panoramaNodeId": "blue-bay-ext-left",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Rear-left driveway ramp and western balcony wing.",
+          "verifiedSiteNote": "Dedicated basement ramp on SW corner."
+        },
+        {
+          "direction": "W",
+          "label": "West-Facing View",
+          "bearingDegrees": 270,
+          "panoramaNodeId": "blue-bay-ext-left",
+          "previewImageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg",
+          "description": "Left side roadway facing tree-lined residential avenue.",
+          "verifiedSiteNote": "30 ft clear sightline corridor on West boundary."
+        },
+        {
+          "direction": "NW",
+          "label": "North-West Corner View",
+          "bearingDegrees": 315,
+          "panoramaNodeId": "blue-bay-ext-front",
+          "previewImageUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "description": "Front-left corner approach from main street junction.",
+          "verifiedSiteNote": "Primary vehicle drop-off turn-in."
+        }
+      ],
+      "panoramas": [
+        {
+          "id": "blue-bay-ext-front",
+          "title": "Front Side — Main Gate & Avenue",
+          "category": "road",
+          "zone": "exterior",
+          "exteriorSide": "front",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Front Side (North)",
+          "description": "Outside Blue Bay Terrace along Azure Lakefront Parkway. Select a floor & flat below to enter the gate, or inspect Back, Left, and Right building sides.",
+          "connections": {
+            "forwardNodeId": "blue-bay-flat-gate",
+            "forwardLabel": "Enter Flat Gate",
+            "backwardNodeId": "blue-bay-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "blue-bay-ext-left",
+            "leftLabel": "Left Side",
+            "rightNodeId": "blue-bay-ext-right",
+            "rightLabel": "Right Side"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-front-gate",
+              "yaw": 0,
+              "pitch": 2,
+              "title": "Main Apartment Gate",
+              "detail": "Choose floor and flat to step inside the apartment gate.",
+              "targetNodeId": "blue-bay-flat-gate"
+            },
+            {
+              "id": "blue-bay-hs-front-right",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Right Side Elevation",
+              "detail": "Inspect East side setback and balconies.",
+              "targetNodeId": "blue-bay-ext-right"
+            },
+            {
+              "id": "blue-bay-hs-front-left",
+              "yaw": 278,
+              "pitch": 0,
+              "title": "Left Side Avenue",
+              "detail": "Inspect West driveway and parking ramp.",
+              "targetNodeId": "blue-bay-ext-left"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-ext-right",
+          "title": "Right Side — East Elevation",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "right",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Side (East)",
+          "description": "Right side of Blue Bay Terrace showing eastern balconies and 24 ft parkway setback.",
+          "connections": {
+            "forwardNodeId": "blue-bay-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "blue-bay-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "blue-bay-ext-front",
+            "leftLabel": "Front Gate",
+            "rightNodeId": "blue-bay-ext-back",
+            "rightLabel": "Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-right-front",
+              "yaw": 0,
+              "pitch": 0,
+              "title": "Return to Front Side",
+              "detail": "Back to main avenue gate.",
+              "targetNodeId": "blue-bay-ext-front"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-ext-left",
+          "title": "Left Side — West Driveway",
+          "category": "exterior",
+          "zone": "exterior",
+          "exteriorSide": "left",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_road_1795416772401.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 270,
+          "compassHeadingLabel": "Left Side (West)",
+          "description": "Left side of Blue Bay Terrace showing basement parking ramp and western street trees.",
+          "connections": {
+            "forwardNodeId": "blue-bay-ext-front",
+            "forwardLabel": "Front Side",
+            "backwardNodeId": "blue-bay-ext-back",
+            "backwardLabel": "Back Side",
+            "leftNodeId": "blue-bay-ext-back",
+            "leftLabel": "Back Side",
+            "rightNodeId": "blue-bay-ext-front",
+            "rightLabel": "Front Gate"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-left-ramp",
+              "yaw": 260,
+              "pitch": -3,
+              "title": "Covered Parking Ramp",
+              "detail": "Stilt and basement EV-ready bays."
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-ext-back",
+          "title": "Back Side — Courtyard & Terrace",
+          "category": "amenity",
+          "zone": "exterior",
+          "exteriorSide": "back",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_terrace_1795416772311.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Back Side (South)",
+          "description": "Back side of Blue Bay Terrace overlooking the reflection pool, courtyard garden, and rear balconies.",
+          "connections": {
+            "forwardNodeId": "blue-bay-ext-front",
+            "forwardLabel": "Front Side",
+            "leftNodeId": "blue-bay-ext-right",
+            "leftLabel": "Right Side",
+            "rightNodeId": "blue-bay-ext-left",
+            "rightLabel": "Left Side"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-back-pool",
+              "yaw": 185,
+              "pitch": -8,
+              "title": "Courtyard & Pool Deck",
+              "detail": "Private rear garden and lounge terrace."
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-gate",
+          "title": "Flat Entrance Gate",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Flat Main Door",
+          "description": "Standing at the flat entrance gate. Step forward into the Main Hall or return outside.",
+          "connections": {
+            "forwardNodeId": "blue-bay-flat-hall",
+            "forwardLabel": "Enter Main Hall",
+            "backwardNodeId": "blue-bay-ext-front",
+            "backwardLabel": "Exit Outside"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-gate-hall",
+              "yaw": 0,
+              "pitch": -2,
+              "title": "Enter First Hall",
+              "detail": "Step inside the main living hall.",
+              "targetNodeId": "blue-bay-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-hall",
+          "title": "Main Hall (Living Room)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Central Hall Hub",
+          "description": "Right: Open Kitchen · Straight Left: Bedroom 1 (Bathroom & Back Balcony) · Right Straight → Left: Bedroom 2 (Bathroom) · Front: Entrance Gate.",
+          "connections": {
+            "forwardNodeId": "blue-bay-flat-gate",
+            "forwardLabel": "Front: Entrance Gate",
+            "rightNodeId": "blue-bay-flat-kitchen",
+            "rightLabel": "Right: Open Kitchen",
+            "leftNodeId": "blue-bay-flat-bedroom-1",
+            "leftLabel": "Straight Left: Bedroom 1",
+            "backwardNodeId": "blue-bay-flat-bedroom-2",
+            "backwardLabel": "Right Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-hall-kitchen",
+              "yaw": 82,
+              "pitch": -3,
+              "title": "Open Kitchen (Right)",
+              "detail": "Travertine island and deep-teal modular cabinetry.",
+              "targetNodeId": "blue-bay-flat-kitchen"
+            },
+            {
+              "id": "blue-bay-hs-hall-bed1",
+              "yaw": 280,
+              "pitch": 0,
+              "title": "Bedroom 1 (Straight Left)",
+              "detail": "Primary suite with attached bathroom and back balcony.",
+              "targetNodeId": "blue-bay-flat-bedroom-1"
+            },
+            {
+              "id": "blue-bay-hs-hall-bed2",
+              "yaw": 145,
+              "pitch": 0,
+              "title": "Bedroom 2 (Right → Straight & Left)",
+              "detail": "Second bedroom wing with attached bathroom.",
+              "targetNodeId": "blue-bay-flat-bedroom-2"
+            },
+            {
+              "id": "blue-bay-hs-hall-balcony",
+              "yaw": 8,
+              "pitch": 0,
+              "title": "Balcony View",
+              "detail": "Inspect outdoor glass-railing balcony.",
+              "targetNodeId": "blue-bay-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-kitchen",
+          "title": "Open Kitchen (Right of Hall)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 45,
+          "compassHeadingLabel": "Right Wing · Open Kitchen",
+          "description": "Open kitchen on the right side of the hall with travertine island and direct view back to the living hall.",
+          "connections": {
+            "leftNodeId": "blue-bay-flat-hall",
+            "leftLabel": "Main Hall",
+            "backwardNodeId": "blue-bay-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "blue-bay-flat-bedroom-2",
+            "forwardLabel": "Straight → Bedroom 2"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-kit-hall",
+              "yaw": 235,
+              "pitch": 0,
+              "title": "Back to Main Hall",
+              "detail": "Return to living hall center.",
+              "targetNodeId": "blue-bay-flat-hall"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-bedroom-1",
+          "title": "Bedroom 1 (Straight Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 315,
+          "compassHeadingLabel": "Left Wing · Bedroom 1",
+          "description": "Straight left from the hall: Bedroom 1 with attached bathroom on the left and private balcony on the backside.",
+          "connections": {
+            "leftNodeId": "blue-bay-flat-bath-1",
+            "leftLabel": "Attached Bathroom",
+            "backwardNodeId": "blue-bay-flat-balcony",
+            "backwardLabel": "Back Balcony",
+            "rightNodeId": "blue-bay-flat-hall",
+            "rightLabel": "Back to Hall",
+            "forwardNodeId": "blue-bay-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-b1-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 1",
+              "detail": "Step inside the ensuite bathroom.",
+              "targetNodeId": "blue-bay-flat-bath-1"
+            },
+            {
+              "id": "blue-bay-hs-b1-balcony",
+              "yaw": 5,
+              "pitch": 0,
+              "title": "Backside Balcony",
+              "detail": "Open sliding doors to the private balcony.",
+              "targetNodeId": "blue-bay-flat-balcony"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-bath-1",
+          "title": "Attached Bathroom 1",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 0,
+          "compassHeadingLabel": "Bedroom 1 Ensuite",
+          "description": "Attached bathroom to Bedroom 1 featuring limestone walls, deep-teal vanity, and walk-in glass shower.",
+          "connections": {
+            "backwardNodeId": "blue-bay-flat-bedroom-1",
+            "backwardLabel": "Back to Bedroom 1",
+            "rightNodeId": "blue-bay-flat-bedroom-1",
+            "rightLabel": "Bedroom 1"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-bath1-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 1",
+              "detail": "Step back into Bedroom 1.",
+              "targetNodeId": "blue-bay-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-balcony",
+          "title": "Backside Balcony",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 180,
+          "compassHeadingLabel": "Backside Private Balcony",
+          "description": "Private rear balcony with frameless glass railing overlooking courtyard gardens.",
+          "connections": {
+            "forwardNodeId": "blue-bay-flat-bedroom-1",
+            "forwardLabel": "Enter Bedroom 1",
+            "rightNodeId": "blue-bay-flat-hall",
+            "rightLabel": "Main Hall",
+            "backwardNodeId": "blue-bay-ext-back",
+            "backwardLabel": "Building Back Side"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-bal-inside",
+              "yaw": 82,
+              "pitch": 0,
+              "title": "Return Inside",
+              "detail": "Step back through glass sliders.",
+              "targetNodeId": "blue-bay-flat-bedroom-1"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-bedroom-2",
+          "title": "Bedroom 2 (Right → Straight & Left)",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Right Wing · Bedroom 2",
+          "description": "From Main Hall, go right straight and left into Bedroom 2 with its attached bathroom.",
+          "connections": {
+            "leftNodeId": "blue-bay-flat-bath-2",
+            "leftLabel": "Attached Bathroom 2",
+            "backwardNodeId": "blue-bay-flat-hall",
+            "backwardLabel": "Back to Hall",
+            "forwardNodeId": "blue-bay-flat-hall",
+            "forwardLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-b2-bath",
+              "yaw": 60,
+              "pitch": -2,
+              "title": "Attached Bathroom 2",
+              "detail": "Inspect Bedroom 2 attached bathroom.",
+              "targetNodeId": "blue-bay-flat-bath-2"
+            }
+          ]
+        },
+        {
+          "id": "blue-bay-flat-bath-2",
+          "title": "Attached Bathroom 2",
+          "category": "interior",
+          "zone": "interior",
+          "mediaType": "image",
+          "mediaUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg",
+          "isPlaceholderMedia": false,
+          "defaultYaw": 90,
+          "compassHeadingLabel": "Bedroom 2 Ensuite",
+          "description": "Attached bathroom inside Bedroom 2 wing. Return to Bedroom 2 or back to the Main Hall.",
+          "connections": {
+            "backwardNodeId": "blue-bay-flat-bedroom-2",
+            "backwardLabel": "Back to Bedroom 2",
+            "rightNodeId": "blue-bay-flat-hall",
+            "rightLabel": "Main Hall"
+          },
+          "hotspots": [
+            {
+              "id": "blue-bay-hs-bath2-out",
+              "yaw": 105,
+              "pitch": 0,
+              "title": "Return to Bedroom 2",
+              "detail": "Step back into Bedroom 2.",
+              "targetNodeId": "blue-bay-flat-bedroom-2"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "id": "gal-ext",
+          "category": "Building Exterior",
+          "title": "Blue Bay Terrace — Front Elevation",
+          "caption": "Architectural stone cladding, crisp metal louvers, and arrival canopy.",
+          "imageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg"
+        },
+        {
+          "id": "gal-int",
+          "category": "Building Interior",
+          "title": "Main Living Hall",
+          "caption": "Open-plan living and dining space with engineered oak flooring.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-ent",
+          "category": "Entrance",
+          "title": "Main Gate & Reception Plaza",
+          "caption": "Landscaped entrance court, security desk, and lobby canopy.",
+          "imageUrl": "/src/assets/images/apt_fourth_exterior_1795416772950.jpg"
+        },
+        {
+          "id": "gal-liv",
+          "category": "Living Room",
+          "title": "Corner Living Pavilion",
+          "caption": "Floor-to-ceiling glazing opening onto balcony seating.",
+          "imageUrl": "/src/assets/images/pano_360_interior_1795416772566.jpg"
+        },
+        {
+          "id": "gal-bed",
+          "category": "Bedrooms",
+          "title": "Master Bedroom Suite",
+          "caption": "Natural daylight window, balcony access, and attached bathroom.",
+          "imageUrl": "/src/assets/images/pano_360_bedroom_1795420536458.jpg"
+        },
+        {
+          "id": "gal-kit",
+          "category": "Kitchen",
+          "title": "Open Travertine & Navy Kitchen",
+          "caption": "Custom cabinetry with travertine breakfast island and utility door.",
+          "imageUrl": "/src/assets/images/pano_360_kitchen_1795420537060.jpg"
+        },
+        {
+          "id": "gal-bath",
+          "category": "Bathrooms",
+          "title": "Attached Ensuite Bathroom",
+          "caption": "Honed limestone surfaces, timber vanity, and glass shower.",
+          "imageUrl": "/src/assets/images/pano_360_bathroom_1795420537009.jpg"
+        },
+        {
+          "id": "gal-bal",
+          "category": "Balconies",
+          "title": "Private Sit-Out Balcony",
+          "caption": "Frameless glass railing overlooking landscaped garden lawns.",
+          "imageUrl": "/src/assets/images/pano_360_balcony_1795420536812.jpg"
+        },
+        {
+          "id": "gal-prk",
+          "category": "Parking",
+          "title": "Covered Parking Driveway",
+          "caption": "EV-ready stilt and basement bays.",
+          "imageUrl": "/src/assets/images/apt_first_exterior_1795416772439.jpg"
+        },
+        {
+          "id": "gal-amn",
+          "category": "Amenities",
+          "title": "Swimming Pool & Clubhouse",
+          "caption": "Courtyard lap pool, shaded pergolas, and resident lounge.",
+          "imageUrl": "/src/assets/images/hero_residence_banner_1795416772647.jpg"
+        },
+        {
+          "id": "gal-rd",
+          "category": "Surrounding Roads",
+          "title": "Avenue Frontage & Jogging Loop",
+          "caption": "Tree-lined street, walking track, and landscaped setback.",
+          "imageUrl": "/src/assets/images/apt_second_exterior_1795416772887.jpg"
+        }
+      ]
+    }
+  ],
+  "enquiries": []
+}

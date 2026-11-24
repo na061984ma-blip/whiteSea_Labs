@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Estates — Ventures & 360° Property Explorer",
+  "description": "Real estate development platform featuring interactive apartment ventures, floor-wise flat availability, 8-direction site orientation, and Insta360-ready 360-degree virtual property tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
